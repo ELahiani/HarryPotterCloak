@@ -23,7 +23,6 @@ You can also have fun effects like cartoonifying or adding a glowing aura to the
 ## Demo
 
 ![Invisibility Cloak Demo](example1.jpg)
-![Invisibility Cloak Demo](example2.jpeg)
 
 ---
 
