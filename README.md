@@ -20,6 +20,11 @@ You can also have fun effects like cartoonifying or adding a glowing aura to the
 | c   | Quit                       |
 
 ---
+## Demo
+![Invisibility Cloak Demo](example1.jpeg)
+![Invisibility Cloak Demo](example2.jpeg)
+
+---
 
 ## Installation
 
