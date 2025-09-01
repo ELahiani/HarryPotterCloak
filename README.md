@@ -26,8 +26,8 @@ pip install opencv-python numpy
 
 2. Clone the repository
 ```bash
-git clone https://github.com/yourusername/invisibility-cloak.git
-cd invisibility-cloak 
+git clone https://github.com/ELahiani/HarryPotterCloak.git
+cd HarryPotterCloak 
 ```
 
 3.Run the program
