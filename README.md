@@ -35,7 +35,7 @@ git clone https://github.com/ELahiani/HarryPotterCloak.git
 cd HarryPotterCloak 
 ```
 
-3.Run the program
+3. Run the program
 ```bash
 python invisibility_cloak.py
 ```
